@@ -1,0 +1,1 @@
+{"name":"Local: PartitonList","url":"d:\\JAVA\\PlusLibrary\\Amazon\\Medium\\PartitonList.java","tests":[{"id":1754439786044,"input":"","output":"1 2 2 4 3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\JAVA\\PlusLibrary\\Amazon\\Medium\\PartitonList.java","group":"local","local":true}
