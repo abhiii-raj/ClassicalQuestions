@@ -23,6 +23,7 @@ public class PalindromeNumber {
     public static void main(String args[]){
         int input1 = 121;
         int input2 = -121;
+        // int input3 = 1213121; 
         System.out.println(checkPalindromeNumber(input1));
         System.out.println(checkPalindromeNumber(input2));
     }
