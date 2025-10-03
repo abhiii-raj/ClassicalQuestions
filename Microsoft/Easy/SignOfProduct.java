@@ -31,5 +31,12 @@ public class SignOfProduct {
         System.out.println(arraySign(arr));
         System.out.println(arraySign(arr1));
         System.out.println(arraySign(arr2));
+
+        int a = 1;
+        Integer b = Integer.valueOf(a);
+        String str = "abhi";
+
+        Integer.valueOf(str);
+        
     }
 }

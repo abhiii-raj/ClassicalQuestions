@@ -1,4 +1,4 @@
-package Microsoft.Easy;
+// package Microsoft.Easy;
 import java.util.*;
 
 public class DefangedIP {
